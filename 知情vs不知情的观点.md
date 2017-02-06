@@ -1,0 +1,28 @@
+> If experts can, like the rest of us, be wrong, why are their opinions more highly valued than those of nonexperts? In light of the examples we have considered, we might conclude that it is a waste of time to consult the experts. Let’s look at some situations and see if this conclusion is reasonable.
+
+如果专家也像其余的我们一样可能犯错，那为什么他们的观点比那些非专家更有价值呢？根据我们所考虑的例子，我们可以得出结论：咨询专家是浪费时间。让我们看一些情况，看看这个结论是否合理。
+
+> What are the effects of hashish on those who smoke it? We could ask the opinion of a smoker or take a poll of a large number of smokers. But it would be more prudent to obtain the opinion of one or more trained observers, research scientists who have conducted studies of the effects of hashish smoking. \(At least one such group, a team of army doctors, has found that heavy use of hashish leads to severe lung damage. Also, if the smoker is predisposed to schizophrenia, hashish can cause long-lasting episodes of that disorder. 14\)
+
+吸大麻有什么影响？我们可以咨询吸烟者的意见或者做大量吸烟者的民意调查。但是更谨慎的是获得一个或者多个训练有素的观察者、已经对吸大麻的影响进行研究的研究科学家们的意见。（至少有一支这样的团队，一队军医已经发现大量使用大麻会导致严重的肺损伤。此外，如果吸烟者有精神分裂症倾向，大麻会导致它长期发作。）
+
+> A giant quasar is positioned on what may be the edge of our universe,10 billion light-years away from us.15 \(To calculate the distance in miles,just multiply the speed of light, 186,000 miles per second, by the number of seconds in a day, 86,400; next multiply that answer by the number of days in a year, 365; finally, multiply that answer by 10,000,000,000.\) The pinpoint of light viewed by astronomers has been streaking through space for all those years and has just reached us. The quasar may very well have ceased to exist millions and millions of years ago. Did it? It may take millions and millions of years before we can know. If we wanted to find out more about this quasar or about quasars in general, we could stop someone on a street corner and ask about it, and that person would be free to offer an opinion. But it would be more sensible to ask an astronomer.
+
+一颗巨型类星体被定位在距离我们100亿光年远的宇宙边缘。（以英里计算距离，只需乘以光的速度，186000米每秒，乘以一天86400秒；再乘以一年365天；最终再乘以10,000,000,000）天文学家看到的一点亮光已经穿过空间这么多年，并刚刚到我们这里。而这颗类星体很可能在数百万年前就已经消失了。真的吗？或许数百万年之后我们才能知道。如果我们想要了解更多关于这颗类星体或者所有类星体，我们可以在街角拦住某人问一下，那个人将会免费提出意见。但是去问一位天文学家更明智些。
+
+> Can whales communicate with one another? If so, how far can they transmit messages? Would our auto mechanic have an opinion on this matter? Perhaps. And so might our grocer, dentist, and banker. But no matter how intelligent these people are, chances are their opinions about whales are not very well informed. The people whose opinions would be valuable would be those who have done some research with whales.\(They would tell us that the humpback whales can make a variety of sounds. In addition to clicking noises, they make creaking and banging and squeaking noises. They’ve been found to make these sounds for as long as several minutes at a time, at an intensity of 100 to 110 decibels,and audible for a distance of 25,000 miles.16\)
+
+鲸鱼能互相交流？如果能，它们可以传送信息到多远？我们的汽车修理工会对此有意见吗？或许有。并且我们的杂货商、牙医和银行家也可能有。但是不管这些人多么聪明，他们对鲸鱼的意见可能并不是很有依据。那些已经对鲸鱼做过一些研究的人的意见才是有价值的。（他们会告诉我们，座头鲸可以发出各种声音。除了卡塔声外，它们还发出嘎吱声、砰和吱吱声。已经发现这些声音长达几分钟的时间，在100到110分贝的强度，，声音距离是25000英里远）
+
+> Similar examples could be cited from every field of knowledge—from antique collecting to ethics, from art to criminology. All would support the same view: that by examining the opinions of informed people before making up our minds, we broaden our perspective, see details we might not see by ourselves, consider facts we would otherwise be unaware of, and lessen our chances of error. \(It is foolish to look for guarantees of correctness—there are none.\) No one can know everything about everything; there is simply not enough time to learn. Consulting those who have given their special attention to the field of knowledge in question is therefore a mark not of dependence or irresponsibility but of efficiency and good sense.
+
+类似的例子还可以从任一知识领域例举——从古董收集到伦理，从艺术到犯罪学。所有人都会支持相同的观点：通过在做出决定之前检查知情人士的意见，会开阔我们的视野，看到我们自己可能看不到的细节，考虑我们原本没有意识到的事实，并减少错误的机会。（寻找正确保证是愚蠢的——没有这种保证。）没有人可以知道一切的一切。因为没有足够的时间学习。因此向那些已经把他们的注意力放到特定知识领域的人咨询问题，不是依赖或者不负责任的标志，而是高效和判断力强的标志。
+
+> To be considered informed, an opinion must be based on something more substantial than its familiarity to us or the length of time we have held it or our presumed right to think whatever we wish. It must be based on careful consideration of the evidence. And when we express an opinionin formal speaking or writing, we should support it adequately. Authors Ray Marshall and Marc Tucker, for example, assert that the reason teaching in the United States has not been a highly respected profession is that most school teachers traditionally have been women. To support this contention, they trace the relevant historical development, citing administrative directives and statements of philosophy, presenting hiring patterns \(from 59 percent women in 1870 to 86 percent in 1920\), detailing significant shifts in curricula, contrasting male and female salary statistics,and demonstrating the relative powerlessness of women to negotiate professional-level salaries and working conditions.17
+
+为了被认为是有依据的，一个观点必须基于一些更真实的东西而不是基于它对我们的熟悉程度，或者我们拥有它的时间长度，或者我们思考任何我们想要东西的假定权利。它必须基于对证据的仔细考虑。并且当我们在正式发言或写作中表达观点时，我们应该给予充分支持。比如，作家 Ray Marshall 和 Marc Tucker 断言，在美国，教学并不是一个高度受尊重的职业，是因为大多数学校老师历来都是女人。为了支持这个论点，他们追踪了相关的历史发展，例举行政指示和哲学概述，出示招聘模式（从1870年59%的妇女到1920年86%的妇女），详述课程的重要转变，对比男女工资统计，证明女人在商定专业人士的工资和工作条件方面的相对无力。
+
+> As this example illustrates, in most responsible expressions of opinion,the statement of opinion takes up only a sentence or two, while the supporting details fill paragraphs, pages, and even entire chapters. Keep this in mind when writing your analytic papers.
+
+正如这个例子所示，在大多数负责任的观点表达中，观点陈述仅只有一两句话，而支持细节则填满了段落，页面，甚至整个章节。当你写分析文章时，请记住这一点。
+
