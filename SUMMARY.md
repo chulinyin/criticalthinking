@@ -50,7 +50,7 @@
     * [错误的种类](错误的种类.md)
     * [有见识VS没见识的观点](知情vs不知情的观点.md)
     * [负责地形成观点](负责地形成观点.md)
-    * [application6](application6.md)
+    * [应用](application6.md)
 
 ---
 
