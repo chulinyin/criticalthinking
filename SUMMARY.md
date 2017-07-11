@@ -53,6 +53,7 @@
     * [应用](application6.md)
     * [意见分歧](yi-jian-fen-qi-wu.md)
   * [第六章：证据是什么？](di-liu-zhang-ff1a-zheng-ju-shi-shi-yao-ff1f.md)
+    * [证据的类型](di-liu-zhang-ff1a-zheng-ju-shi-shi-yao-ff1f/zheng-ju-de-lei-xing.md)
 
 ---
 
