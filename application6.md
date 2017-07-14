@@ -3,12 +3,12 @@
 一、想象你是你大学的高级图书管理员。一位教职工给你发送了以下推荐杂志清单，每本都有来引用自BillKatz 和 Linda Sternberg Katz 的图书馆杂志标准指南的一句简短描述。
 
 * > ._The Nation._“This is the foremost liberal/left-wing journal, and the standard by which all other liberal publications should be judged . . . unabashedly partisan.”
-
+  >
   > _Human Events._“The editor makes no claims about impartiality. . . . The editorial tone is decidedly conservative, particularly when discussing Congress.”
-
-  > _Free Inquiry:_A Secular Humanist Magazine. “The articles in this journal strongly reflect the position of CODESH \[the Council for Democratic and Secular Humanism\] and tend to be more anti–organized religion than positively secular humanist.”
-
-  > _Paidika:_The Journal of Paedophilia. “Paidika is a journal intended for academics studying human sexuality as well as for pedophiles and pederasts discovering a history and an identity.”
+  >
+  > \_Free Inquiry:\_A Secular Humanist Magazine. “The articles in this journal strongly reflect the position of CODESH \[the Council for Democratic and Secular Humanism\] and tend to be more anti–organized religion than positively secular humanist.”
+  >
+  > \_Paidika:\_The Journal of Paedophilia. “Paidika is a journal intended for academics studying human sexuality as well as for pedophiles and pederasts discovering a history and an identity.”
 
   国家： “这是最重要的自由党/左翼杂志，也是所有其他自由党出版物的评判标准，不加掩饰的党派。”
 
@@ -148,7 +148,7 @@
 
 > \10. Each of the following questions reflects a controversial issue—that is, an issue that tends to excite strong disagreement among people. State and support your opinion about each issue, applying what you learned in this chapter.
 
-以下每个问题都反映了一个有争议的问题——也就是说，这个问题往往会在人群中引起剧烈分歧。应用你在本章中学到的内容，陈述并支持你对每个问题的观点。
+十、以下每个问题都反映了一个有争议的问题——也就是说，这个问题往往会在人群中引起剧烈分歧。应用你在本章中学到的内容，陈述并支持你对每个问题的观点。
 
 1. > In divorce cases, what guidelines should the courts use in deciding which parent gets custody of the children?
 
@@ -189,6 +189,10 @@
 10. > Is antisocial behavior increasing, or are the media just doing a better job of reporting it?
 
     厌恶社交的行为是否正在增加，还是只是媒体正好很好地报导了它？
+
+    ---
+
+    ---
 
 > \11. Read the following dialogue carefully. Then determine which opinion on the issue is more reasonable. Be sure to base your decision on evidence rather than mere preference.
 
