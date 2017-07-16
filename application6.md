@@ -188,11 +188,8 @@
 
 10. > Is antisocial behavior increasing, or are the media just doing a better job of reporting it?
 
-    厌恶社交的行为是否正在增加，还是只是媒体正好很好地报导了它？
+   厌恶社交的行为是否正在增加，还是只是媒体正好很好地报导了它？
 
-    ---
-
-    ---
 
 > \11. Read the following dialogue carefully. Then determine which opinion on the issue is more reasonable. Be sure to base your decision on evidence rather than mere preference.
 
