@@ -1,0 +1,12 @@
+> The following passage summarizes an important difference of opinion. After reading the statement, use the library and/or the Internet and find what knowl-edgeable people have said about the issue. Be sure to cover the entire range ofviews. Then assess the strengths and weaknesses of each. If you conclude thatone view is entirely correct and the others are mistaken, explain how you reachedthat conclusion. If, as is more likely, you find that one view is more insightful thanthe others but that they all make some valid points, construct a view of yourown that combines the insights from all views and explain why that view is themost reasonable of all. Present your response in a composition or an oral report,as your instructor specifies.
+
+下面一段文章总结了一个重要的不同意见。在阅读该陈述之后，使用图书馆和互联网，寻找知识渊博的人关于这个问题说了什么。确保覆盖了整个范围的观点。然后评价每个观点的优缺点。如果你推断一个观点是完全正确的，而其他观点是错误的，解释你是如何得到这个结论的。更可能的情况是，你发现一个观点比其它观点更富有洞察力，但是它们都有一些正确的点，则结合所有观点的见解，构造一个你自己的观点，并解释为什么这个观点是所有观点中最合理的。按照你老师的指定，在一个书面或者口头报告中展示你的回答。
+
+> **Should the minimum wage be abolished?**The dominant view over the past half-century is that the minimum wage should not be abolished. In fact, many believe it is far too low and should be increased. Proponents of this view make the moral argument that every worker deserves a “living wage” and only the government can ensure that employers meet this obligation. They also make the practical argument that a higher starting salary motivates workers to work hard and improve their skills. Those who believe the minimum wage should be abolished contend that when minimum wages are imposed on small businesses, they are forced to increase prices and penalize consumers or to cut jobs and limit opportunities for would-be workers. One economist notes that minimum wage laws harm younger workers and members of minority groups because “the net economic effect of minimum wage laws is to make less skilled, less experienced, or otherwise less desired workers more expensive—thereby pricing many of them out of jobs.”6
+
+**应该取消最低工资吗？**过去半个世纪以来，主流的观点是最低工资不应该被取消。事实上，很多人认为最低工资太低了，应该增加。这种观点的支持者做了道德论证：每个员工都应该享有“生活工资”，而且只有政府能够保证雇主履行这个义务。他们还做了实际的论证：起薪更高会激励员工努力工作并提升技能。那些认为最低工资应该被取消的人则认为，当对小企业实施最低工资时，他们被迫提升价格（这惩罚了消费者）或者减少就业机会（这限制了未来员工的机会）。一位经济学家指出，最低工资法伤害了年轻员工和少数民族成员，因为“最低工资法的净经济效应是使得技能更低，经验更少，或者其他不太理想的员工变得更贵——从而使许多人失去了工作”
+
+> Begin your analysis by conducting a Google search using the term “pro con minimum wage.”
+
+通过谷歌搜索关键词“pro con minimum wage（最低工资）”开始你的分析。
+
