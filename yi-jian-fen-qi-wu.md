@@ -8,5 +8,5 @@ The following passage summarizes an important difference of opinion. After readi
 
 > Begin your analysis by conducting a Google search using the terms “limited government” and “free enterprise economy.”
 
-通过谷歌搜索关键词 “有限政府”和“自由企业经济”，并开始你的分析。
+通过谷歌搜索关键词 “有限政府”和“自由企业经济”开始你的分析。
 
