@@ -56,7 +56,7 @@
     * [证据的类型](di-liu-zhang-ff1a-zheng-ju-shi-shi-yao-ff1f/zheng-ju-de-lei-xing.md)
     * [评估证据](di-liu-zhang-ff1a-zheng-ju-shi-shi-yao-ff1f/ping-gu-zheng-ju.md)
     * [什么构成充分证据？](di-liu-zhang-ff1a-zheng-ju-shi-shi-yao-ff1f/shi-yao-gou-cheng-chong-fen-zheng-ju-ff1f.md)
-
+    * [应用](di-liu-zhang-ff1a-zheng-ju-shi-shi-yao-ff1f/应用6.md)
 ---
 
 * [第二部分：误区](第二部分：误区.md)
